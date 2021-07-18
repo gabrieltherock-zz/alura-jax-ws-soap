@@ -1,4 +1,4 @@
-package br.com.gabriel.modelo.item;
+package br.com.gabriel.estoque.modelo.item;
 
 import java.util.ArrayList;
 import java.util.Collection;

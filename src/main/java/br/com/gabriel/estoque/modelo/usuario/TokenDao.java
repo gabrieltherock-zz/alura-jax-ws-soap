@@ -1,4 +1,4 @@
-package br.com.gabriel.modelo.usuario;
+package br.com.gabriel.estoque.modelo.usuario;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

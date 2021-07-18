@@ -1,6 +1,8 @@
-package br.com.gabriel.modelo.item;
+package br.com.gabriel.estoque.modelo.item;
 
+import javax.xml.bind.annotation.XmlRootElement;
 
+@XmlRootElement
 public class Item {
 
 	private String codigo;

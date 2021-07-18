@@ -1,4 +1,4 @@
-package br.com.gabriel.modelo.usuario;
+package br.com.gabriel.estoque.modelo.usuario;
 
 public class Usuario {
 
