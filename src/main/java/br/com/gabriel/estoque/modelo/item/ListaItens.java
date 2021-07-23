@@ -10,7 +10,7 @@ import java.util.List;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class ListaItens {
 
-	@XmlElement(name = "item")
+	@XmlElement(name="item")
 	private List<Item> itens;
 
 	public ListaItens(List<Item> itens) {
@@ -19,7 +19,7 @@ public class ListaItens {
 
 	ListaItens() {
 	}
-	
+
 	public List<Item> getItens() {
 		return itens;
 	}

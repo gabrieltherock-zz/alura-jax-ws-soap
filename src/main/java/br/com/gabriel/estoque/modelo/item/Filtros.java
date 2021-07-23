@@ -13,7 +13,13 @@ public class Filtros {
 	@XmlElement(name="filtro")
 	private List<Filtro> filtros;
 
-	//construtores
+	public Filtros(List<Filtro> filtros) {
+		this.filtros = filtros;
+	}
+
+	Filtros() {
+
+	}
 
 	public List<Filtro> getLista() {
 		return filtros;
