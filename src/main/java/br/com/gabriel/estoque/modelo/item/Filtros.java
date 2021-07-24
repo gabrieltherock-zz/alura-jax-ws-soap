@@ -17,7 +17,7 @@ public class Filtros {
 		this.filtros = filtros;
 	}
 
-	Filtros() {
+	public Filtros() {
 
 	}
 

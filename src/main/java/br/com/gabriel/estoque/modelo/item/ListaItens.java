@@ -17,7 +17,7 @@ public class ListaItens {
 		this.itens = itens;
 	}
 
-	ListaItens() {
+	public ListaItens() {
 	}
 
 	public List<Item> getItens() {
